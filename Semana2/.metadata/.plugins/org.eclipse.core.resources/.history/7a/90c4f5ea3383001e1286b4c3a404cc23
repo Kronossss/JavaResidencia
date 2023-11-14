@@ -1,0 +1,30 @@
+package dogzinho;
+
+public class Dog {
+	private int _legs;
+	private boolean _bark;
+	private String _dogSize, _earType;
+
+	public Dog() {
+		_legs = 4;
+		_bark = true;
+	}
+
+	public void setDogSize(String dogSize) {
+		_dogSize = dogSize;
+	}
+
+	public void setEars(String type) // virtual function
+	{
+		_earType = type;
+	}
+
+	public void setLegs(int _legs) {
+		_legs = _legs;
+	}
+
+	public int getLegs() {
+		return _legs;
+	}
+
+}

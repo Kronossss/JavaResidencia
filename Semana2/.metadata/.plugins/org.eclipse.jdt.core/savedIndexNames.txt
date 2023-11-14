@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\08419437530\Documents\ResidenciaJava\.metadata\.plugins\org.eclipse.jdt.core
+1213582819.index
+1865797976.index
+4162249856.index
